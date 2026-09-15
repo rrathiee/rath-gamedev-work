@@ -1,0 +1,10 @@
+name = "rath-gg";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "rath-gg";
+overview = "Configurable DayZ gear condition quality-of-life monitor.";
+action = "";
+author = "Ry";
+version = "1.1.0";

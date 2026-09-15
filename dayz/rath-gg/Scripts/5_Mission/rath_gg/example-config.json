@@ -1,0 +1,23 @@
+{
+    "Enabled": true,
+    "CheckIntervalMS": 30000,
+    "NotificationTime": 6.0,
+    "NotificationTitle": "rath-gg",
+    "MonitorClothing": true,
+    "MonitorHands": true,
+    "WarnOnBadlyDamaged": true,
+    "WarnOnRuined": true,
+    "NotifyOnFirstScan": false,
+    "MonitoredSlots": [
+        "Headgear",
+        "Mask",
+        "Eyewear",
+        "Body",
+        "Vest",
+        "Back",
+        "Hips",
+        "Legs",
+        "Feet",
+        "Gloves"
+    ]
+}

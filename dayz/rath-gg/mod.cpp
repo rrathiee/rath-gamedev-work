@@ -1,0 +1,10 @@
+name = "rath-gg";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "rath-gg";
+overview = "A lightweight quality-of-life gear condition monitor for DayZ.";
+action = "";
+author = "Ry";
+version = "1.0.0";
