@@ -93,6 +93,6 @@ Earlier FiveM work included clothing packs and MLO/environment content. That bac
 
 ## Code Samples
 
-Sanitized code samples will be added here as projects are prepared for public release.
+Additional sanitized code samples will be added here as projects are prepared for public release.
 
 Private, paid, server-specific, or third-party source code is not published in this repository.
